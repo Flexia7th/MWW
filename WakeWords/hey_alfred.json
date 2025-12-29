@@ -3,7 +3,7 @@
   "wake_word": "hey alfred",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "hey alfred.tflite",
+  "model": "hey_alfred.tflite",
   "trained_languages": [
     "en"
   ],
